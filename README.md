@@ -43,12 +43,18 @@ How do different gear ratios affect output speed and torque in mechanical power 
 
 ### Gear Ratio Calculation
 Calculate the relationship between driving and driven gears.
+
 ### RPM Analysis
 Determine output rotational speed.
+
 ### Torque Analysis
 Estimate torque changes through gear systems.
+
 ### Power Transmission
 Analyze mechanical power transfer between gears.
+
+### Engineering Interpretation
+Provide automatic explanations of how gear ratios influence torque, rotational speed, and mechanical advantage.
 
 ## Engineering Concepts
 - Gear Ratio
@@ -58,12 +64,14 @@ Analyze mechanical power transfer between gears.
 - Mechanical Systems
 
 ## Skills Demonstrated
+
 - Python Programming
 - Mechanical Engineering Fundamentals
 - Engineering Calculations
 - Data Analysis
 - Problem Solving
 - Mechanical System Analysis
+- Engineering Decision Making
 
 ## Sample Output
 
@@ -104,11 +112,19 @@ Results:
 
 The analysis demonstrates the trade-off between rotational speed and torque in mechanical transmission systems.
 
+Engineering Interpretation:
+
+✅ The gear train increases torque while reducing rotational speed, providing mechanical advantage.
+
+The results confirm the fundamental trade-off between torque and rotational speed. As gear ratio increases, torque increases proportionally while rotational speed decreases.
+
 ## Engineering Insights
 
 The analysis demonstrates that increasing the gear ratio reduces rotational speed while increasing torque.
 
 This trade-off is fundamental to mechanical design and allows engineers to optimize systems for different applications, from high-speed machinery to high-torque power transmission systems.
+
+The project also illustrates how mathematical models can be implemented in software to support engineering calculations and decision-making.
 
 ## Key Lessons Learned
 
