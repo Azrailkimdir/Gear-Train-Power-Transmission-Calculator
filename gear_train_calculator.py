@@ -53,4 +53,7 @@ elif gear_ratio < 1:
     )
 else:
     print(
-        "The gear train maintains equal rotational speed and
+        "The gear train maintains equal rotational speed and torque transfer."
+    )
+
+print("\n✅ Calculation Complete")
